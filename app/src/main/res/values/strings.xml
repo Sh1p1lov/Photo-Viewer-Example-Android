@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Photo Viewer Example</string>
+    <string name="request_to_select_a_folder_with_images">Выберите папку с изображениями:</string>
 </resources>
